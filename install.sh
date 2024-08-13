@@ -29,9 +29,9 @@ clear
 
 toilet -f future "Mwtu"
 echo "-------------------------------------------------------"
-echo   "Created  : MWTU and Contributions to Ultrakid⁩ and Elisha⁩ $white"
+echo   "Created  : MWTU⁩ $white"
 echo   "Contact  : facebook.com/mwtu $white"
-echo   "Group  : Termux Android Hackers $white"
+echo   "channel  : youtube @mwtuofficial  $white"
 echo "-------------------------------------------------------"
 
 trap ctrl_c INT

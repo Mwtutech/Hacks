@@ -19,8 +19,8 @@ toilet -f future "MWTU"
 echo "-------------------------------------------------------"
 echo   "Author   : MWTUTECH $white"
 echo   "Contact  : Instagram @mwtuofficial $white"
-echo   "YouTube  : Mwtuofficial $white"
-echo   "Blog     : https://termuxhack.simdif.com $white"
+echo   "YouTube : Mwtuofficial $white"
+echo   "Instagram : mwtuofficial $white"
 echo "-------------------------------------------------------"
 echo "                           v2.0              " |
 ###################################################
